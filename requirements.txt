@@ -1,0 +1,11 @@
+# DISCLAIMER: Do not Modify this file
+matplotlib==3.6.2
+pandas==1.5.2
+torch==1.13.1
+tqdm==4.64.1
+lightgbm==3.3.4
+lief==0.12.3
+numpy==1.24.1
+scikit_learn==1.2.0
+
+
